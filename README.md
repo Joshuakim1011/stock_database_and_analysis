@@ -1,4 +1,4 @@
-# This GitHub repo is designed to:
+# This GitHub repo is designed to
 1. Set up MySQL database for stock market analysis (createDb.sql)
 2. Collect daily stock prices using Alpha Vantage for more than one stock symbol and output it in csv format (DataCollection_API.ipynb)
 3. Insert stock market data into MySQL using the csv data files (DataInsertion_mysql.ipynb)
@@ -6,13 +6,13 @@
 5. Calculates and inserts 10, 30, 50 day simple moving averages and exponential moving averages, as well as MACD and MACD signal into MySQL (DataUpdate.ipynb)
 6. Use Interactive features of Jupyter notebook to study the stock market. Data is queried from MySQL (Interactive.ipynb)
 
-# Dependencies:
+# Dependencies
 - Python 3.7
 - MySQL 8.0
 - Jupyter Notebook
 * Some libraries may need to be installed as you go (the error massage will notify which ones are missing)
 
-# How to set up for the first time:
+# How to set up for the first time
 
 Step 1: Set up MySQL database
 - Open MySQL and Create a new database 
