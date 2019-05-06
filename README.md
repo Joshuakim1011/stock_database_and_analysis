@@ -1,5 +1,3 @@
-### stock_database_and_analysis
-
 # This GitHub repo is designed to:
 1. Set up MySQL database for stock market analysis (createDb.sql)
 2. Collect daily stock prices using Alpha Vantage for more than one stock symbol and output it in csv format (DataCollection_API.ipynb)
