@@ -64,6 +64,7 @@ Step 4: Data Update
 - Performance will decrease for substantially larger data
 - I only use Buy and Hold strategy and Long-Short trading based on SMA, EMA, and MACD. Much more complicated trading strategies may be implemented in the future
 - Long-Short trading does not take account of dividends and trading costs
+- Macroeconimc indicators are only used to plot. There is no trading strategy based on macroeconomic indicators yet
 
 ### Project Organization
 
