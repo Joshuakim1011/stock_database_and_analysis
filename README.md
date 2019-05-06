@@ -13,7 +13,6 @@
 * Some libraries may need to be installed as you go (the error massage will notify which ones are missing)
 
 # How to set up for the first time:
-## Steps 2-4 can be reused later to update the database with more data 
 
 Step 1: Set up MySQL database
 - Open MySQL and Create a new database 
@@ -40,6 +39,8 @@ Step 4: Data Update
 - Run each block of the code in the order
 - If the code ran successfully, daily stock prices should be adjusted for stock splits
 - Technical_analysis table should also be filled
+
+## Steps 2-4 can be reused to update the database in the future
 
 
 # Interactive Platform
