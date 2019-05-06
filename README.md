@@ -60,9 +60,10 @@ Step 4: Data Update
 - In order to run different stocks, a csv file with their symbols and compnay names will be required
 - If you are repopulating a database, then you will have to manually change the start date in DataInsertion_mysql.ipynb
 - You will have to manually find the GDP data and monthly macroeconomic indicators if using for a different range of dates
-- DataUpdate.ipynb assumes that the past prices were not adjusted for split. If the data is already adjusted for splits, you need to take this out
+- DataUpdate.ipynb assumes that the past prices were not adjusted for split. If the data is already adjusted for splits, you need to take some portion of this out
 - Performance will decrease for substantially larger data
 - I only use Buy and Hold strategy and Long-Short trading based on SMA, EMA, and MACD. Much more complicated trading strategies may be implemented in the future
+- Long-Short trading does not take account of dividends and trading costs
 
 ### Project Organization
 
