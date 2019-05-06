@@ -42,7 +42,7 @@ Step 4: Data Update
 - If the code ran successfully, daily stock prices should be adjusted for stock splits
 - Technical_analysis table should also be filled
 
-* # Steps 2-4 can be reused later to update the database with more data 
+* Steps 2-4 can be reused later to update the database with more data 
 
 # Interactive Platform
 - Open Interactive.ipynb in Jupyter notebook
