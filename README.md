@@ -7,13 +7,13 @@
 6. Use Interactive features of Jupyter notebook to study the stock market. Data is queried from MySQL (Interactive.ipynb)
 
 # Dependencies:
-Python 3.7, 
-MySQL 8.0, 
-Jupyter Notebook
+- Python 3.7
+- MySQL 8.0
+- Jupyter Notebook
 * Some libraries may need to be installed as you go (the error massage will notify which ones are missing)
 
 # How to set up for the first time:
-- Steps 2-4 can be reused later to update the database with more data 
+## Steps 2-4 can be reused later to update the database with more data 
 
 Step 1: Set up MySQL database
 - Open MySQL and Create a new database 
